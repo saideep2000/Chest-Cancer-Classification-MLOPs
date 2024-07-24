@@ -6,4 +6,14 @@
 
 2. python3 template.py run this template to create the file structure.
 
-3. 
+3. create a virtual env : conda create -n cancer python=3.8 -y
+
+4. conda activate cancer
+
+5. Now let's write requirements to this project in the requirements.txt
+
+6. Now write setup.py so that the pacakages can be found to the src as root and for other meta data. This will be runned when -e is triggered in the requirements.txt
+
+7. For logging purposes we need to write in _init_.py so that we will save the running logs how they created and from what modules created them.
+
+8. 
