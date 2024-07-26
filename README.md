@@ -16,4 +16,6 @@
 
 7. For logging purposes we need to write in _init_.py so that we will save the running logs how they created and from what modules created them.
 
-8. 
+8. You can test this by accessing logger from cnnClassifer and try logging it.
+
+9. Now we need utility, we will create common.py where we will write the functinalities which are frequently used.
