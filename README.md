@@ -19,3 +19,5 @@
 8. You can test this by accessing logger from cnnClassifer and try logging it.
 
 9. Now we need utility, we will create common.py where we will write the functinalities which are frequently used.
+
+10. Create
